@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{mura}
+村林孝太郎.
+\newblock 自律移動ロボット用の雨天シミュレータの開発(雨天環境のモデル化).
+
+\bibitem{lidar}
+北陽電機 {UTM-30LX-EW}.
+\newblock \\\url{https://www.hokuyo-aut.co.jp/search/single.php?serial=146}.
+\newblock \\(最終閲覧日：\today).
+
+\bibitem{orne}
+井口颯人, 樋高聖人, 野村駿斗, 村林孝太郎, 上田隆一, 林原靖男.
+\newblock “屋外自律移動ロボットプラットフォーム
+  {ORNE}-boxの開発　ー{ORNE}-boxの検証・改良ー”.
+\newblock
+  日本機械学会ロボティクス・メカトロニクス講演会'23予稿集，1P1-I06(2023).
+
+\bibitem{gpt}
+chatgpt.
+\newblock \\\url{https://chatgpt.com/c/6766f07e-3f9c-8000-b65c-759ab5a24ad1}.
+\newblock \\(最終閲覧日：\today).
+
+\bibitem{gaze}
+Gazebo.
+\newblock \\\url{https://gazebosim.org/home}.
+\newblock \\(最終閲覧日：\today).
+
+\bibitem{simu}
+openrdc orne\-box\-simulator.
+\newblock \\\url{https://github.com/open-rdc/orne-box}.
+\newblock \\(最終閲覧日：\today).
+
+\bibitem{tukuba}
+つくばチャレンジ2015 本走行記録.
+
+\bibitem{gls}
+chatgpt.
+\newblock \\\url{https://chatgpt.com/c/6766f07e-3f9c-8000-b65c-759ab5a24ad1}.
+\newblock \\(最終閲覧日：\today).
+
+\end{thebibliography}
